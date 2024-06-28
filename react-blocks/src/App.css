@@ -1,0 +1,15 @@
+.container {
+  background-color: #dddddd;
+  height: 100vh;
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
